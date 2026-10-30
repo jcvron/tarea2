@@ -1,0 +1,9 @@
+{
+  "name": "mi-web-azure",
+  "version": "1.0.0",
+  "description": "Sitio web para Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
